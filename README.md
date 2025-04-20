@@ -13,20 +13,33 @@ Me chamo Ana Cristina Brito, tenho 24 anos e sou natural de Goiás. Sou formada 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+### 🤖 Tecnologias & 📊 Estatísticas
 
-<br/>
-<br/>
+<table>
+  <tr>
+    <td valign="top">
+      
+      <p align="center">
+        <b>Linguagens e Tecnologias</b>
+      </p>
+      <div align="center">
+        <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      </div>
 
----
-
-### 📊 Estatísticas
-
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=AnaCrisBrito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-
-<img align="left" alt="Linguagens mais usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCrisBrito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    </td>
+    
+    <td valign="top">
+      
+      <p align="center">
+        <b>Estatísticas GitHub</b>
+      </p>
+      <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=AnaCrisBrito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+      <img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCrisBrito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    
+    </td>
+  </tr>
+</table>
