@@ -5,7 +5,7 @@
 Me chamo Ana Cristina Brito, tenho 24 anos e sou natural de Goiás. Sou formada em Letras: Português/Inglês, pela Universidade Estadual de Goiás (UEG). Atualmente, estou cursando Sistemas Para Intenet na UEG. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube “[Ana Cristina Brito] (http://www.youtube.com/@devanacrisbrito)”, onde ensino a criar projetos web.
 
 </a>
-<a href="[https://github.com/AnaCrisBrito?tab=repositories&sort=stargazers](https://github.com/AnaCrisBrito?tab=repositories&sort=stargazers)">
+<a href="[https://github.com/AnaCrisBrito/AnaCrisBrito?tab=repositories&sort=stargazers](https://github.com/AnaCrisBrito/AnaCrisBrito?tab=repositories&sort=stargazers)">
 <img
 alt="Total de estrelas"
 title="Total de estrelas GitHub"
