@@ -13,20 +13,24 @@ Me chamo Ana Cristina Brito, tenho 24 anos e sou natural de Goiás. Sou formada 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<h3 align="center">🤖 Tecnologias & 📊 Estatísticas</h3>
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
 
-<br/>
-<br/>
+  <!-- Tecnologias -->
+  <div style="margin: 10px; text-align: center;">
+    <strong>Linguagens e Tecnologias</strong><br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" />
+  </div>
 
----
+  <!-- Estatísticas -->
+  <div style="margin: 10px; text-align: center;">
+    <strong>Estatísticas GitHub</strong><br><br>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=AnaCrisBrito&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCrisBrito&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" />
+  </div>
 
-### 📊 Estatísticas
-
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=AnaCrisBrito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-
-<img align="left" alt="Linguagens mais usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCrisBrito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</div>
