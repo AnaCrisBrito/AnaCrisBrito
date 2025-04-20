@@ -13,13 +13,13 @@ Me chamo Ana Cristina Brito, tenho 24 anos e sou natural de Goiás. Sou formada 
 
 ---
 
-<h3 align="center">🤖 Tecnologias</h3>
+#🤖 Tecnologias
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
 
   <!-- Tecnologias -->
   <div style="margin: 10px; text-align: center;">
-    <strong>Linguagens</strong><br><br>
+    #Linguagens
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
@@ -28,7 +28,7 @@ Me chamo Ana Cristina Brito, tenho 24 anos e sou natural de Goiás. Sou formada 
 
   <!-- Estatísticas -->
   <div style="margin: 10px; text-align: center;">
-    <h3>Estatísticas GitHub</h3><br><br>
+    #Estatísticas GitHub<br><br>
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=AnaCrisBrito&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCrisBrito&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" />
   </div>
