@@ -19,7 +19,7 @@ Me chamo Ana Cristina Brito, tenho 24 anos e sou natural de Goiás. Sou formada 
 
   <!-- Tecnologias -->
   <div style="margin: 10px; text-align: center;">
-    <strong>Linguagens e Tecnologias</strong><br><br>
+    <strong>Linguagens</strong><br><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
