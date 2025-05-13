@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Ana Cristina Brito
-**`Desenvolvedora Front-end / Estudante de Sistemas Para Internet`**
+**`Desenvolvedora Front-end`**
 
 Sou Ana Cristina Brito, formada em Letras (Português/Inglês) e estudante de Sistemas para Internet pela UEG. Apaixonada por tecnologia, estou em constante aprendizado e busco compartilhar meu crescimento na área de desenvolvimento web.
 
@@ -22,10 +22,10 @@ Sou Ana Cristina Brito, formada em Letras (Português/Inglês) e estudante de Si
 
   <div style="margin: 10px; text-align: center;">
     <br><br>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=AnaCrisBrito&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=AnaCrisBrito&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=Ana" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCrisBrito&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" />
   </div>
----
+
 
 ## 📚 Atualmente estudando
 
@@ -42,7 +42,8 @@ Sou Ana Cristina Brito, formada em Letras (Português/Inglês) e estudante de Si
 
 ## 📬 Contatos
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacrisbrito12@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link-aqui) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario) [![Lattes](https://img.shields.io/badge/Lattes-CNPq-0072bc?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIyMCIgd2lkdGg9IjIwIiB2aWV3Qm94PSIwIDAgNjQgNjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTUwIDM1Yy0xLjI4LTIuNTgtMy41LTUtNi41LTZjMy40LTQuNSA0LjMtOS4yIDMuNS0xMy44LTIuNyAxLjEtNS43IDIuOS04LjkgNS42LTEuNSAxLjMtMyAzLjEtNC4zIDUuMS0xLjItMS4yLTIuOS0xLjktNC44LTEuOS0zLjkgMC03IDMuMS03IDdzMy4xIDcgNyA3YzEuOCAwIDMuNS0uNyA0LjgtMS45IDEuMyAxLjkgMi44IDMuOCA0LjMgNS4xLTQgMS40LTcuMSA1LjEtOC40IDguNS0uOCAyLjItMS4yIDQuNi0xLjEgNi45SDI2Yy0xLjcgMC0zIDEuMy0zIDNzMS4zIDMgMyAzaDE0Yy0uMyAyLjUtLjEgNSAuNyA3LjVIMjNjLTEuNyAwLTMgMS4zLTMgM3MxLjMgMyAzIDNoMTljNS4yIDAgOS45LTIuMiAxMy4zLTYuMiAzLjYtNC4)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anacrisbrito12@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-cristina-brito1) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ana_crisbrito/) [![Lattes](https://img.shields.io/badge/Lattes-CNPq-0072bc?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white&label=Lattes)](http://lattes.cnpq.br/6312829985656811)
+
 
 ---
 
