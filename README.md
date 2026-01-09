@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Ana Cristina Brito
-**`Desenvolvedora Front-end`**
+**`Estudante de Sistemas Para internet`**
 
 Sou Ana Cristina Brito, formada em Letras (Português/Inglês) e estudante de Sistemas para Internet pela UEG. Apaixonada por tecnologia, estou em constante aprendizado e busco compartilhar meu crescimento na área de desenvolvimento web.
 
