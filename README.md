@@ -3,7 +3,7 @@
 
 Sou Ana Cristina Brito, formada em Letras (Português/Inglês) e estudante de Sistemas para Internet pela UEG. Apaixonada por tecnologia, estou em constante aprendizado e busco compartilhar meu crescimento na área de desenvolvimento web.
 
-[![Estrelas](https://custom-icon-badges.demolab.com/github/stars/AnaCrisBrito?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas)](https://github.com/AnaCrisBrito?tab=repositories&sort=stargazers) [![Seguidores](https://custom-icon-badges.demolab.com/github/followers/AnaCrisBrito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/AnaCrisBrito?tab=followers) [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@devanacrisbrito) 
+[![Estrelas](https://custom-icon-badges.demolab.com/github/stars/AnaCrisBrito?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas)](https://github.com/AnaCrisBrito?tab=repositories&sort=stargazers) [![Seguidores](https://custom-icon-badges.demolab.com/github/followers/AnaCrisBrito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/AnaCrisBrito?tab=followers) 
 
 ---
 
