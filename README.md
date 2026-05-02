@@ -48,4 +48,4 @@ Sou Ana Cristina Brito, formada em Letras (Português/Inglês) e estudante de Si
 ---
 
 
-> 💡 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler.
+> 💡 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler."*
