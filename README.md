@@ -48,4 +48,4 @@ Sou Ana Cristina Brito, formada em Letras (Português/Inglês) e estudante de Si
 ---
 
 
-> 💡 *“Educar é semear com sabedoria e colher com paciência.”* – Augusto Cury
+> 💡 *Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler.
