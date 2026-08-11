@@ -19,13 +19,10 @@ Sou Ana Cristina Brito, formada em Letras (Português/Inglês) e estudante de Si
 ---
 
 ## 📊 Estatísticas
-
-  <div style="margin: 10px; text-align: center;">
-    <br><br>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=AnaCrisBrito&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=false" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCrisBrito&theme=tokyonight&layout=compact&langs_count=9&custom_title=Tecnologias" />
-  </div>
-
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnaCrisBrito&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCrisBrito&theme=tokyonight&layout=compact&langs_count=6" />
+</p>
 
 ## 📚 Atualmente estudando
 
