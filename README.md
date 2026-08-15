@@ -59,9 +59,11 @@ Minha trajetória integra uma sólida base em **comunicação, raciocínio anal�
 
 ---
 
-## 📊 Estatística
-
-
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AnaCrisBrito?label=Seguidores&style=for-the-badge&color=7a46ce" />
+  <img src="https://img.shields.io/github/stars/AnaCrisBrito?label=Estrelas&style=for-the-badge&color=5170ff" />
+  <img src="https://img.shields.io/github/repo-size/AnaCrisBrito/Blackjack?label=Repo%20Destaque&style=for-the-badge&color=7a46ce" />
+</p>
 
 ## 📬 Conecte-se Comigo
 
