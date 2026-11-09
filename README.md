@@ -53,9 +53,9 @@ Minha trajetória integra uma sólida base em **comunicação, raciocínio anal�
 
 | Projeto | Tecnologias | Descrição |
 |---|---|---|
+| 📁 **[Portfólio](https://github.com/AnaCrisBrito/Meu-portfolio)** | JavaScript • HTML5 • CSS3 | Portfólio pessoal responsivo e bilíngue (PT/EN) |
 | 📊 **[VeloDash](https://velodash-dashboard.streamlit.app/)** | Python • Streamlit • Pandas • Plotly | Dashboard analítico operacional e financeiro com métricas dinâmicas e visualização de dados. |
 | 🃏 **[Blackjack Game](https://anacrisbrito.github.io/Blackjack/)** | JavaScript • HTML5 • CSS3 | Jogo interativo de Blackjack com manipulação avançada de DOM e controle de regras lógicas em tempo real. |
-| ⏰ **[Relógio Digital](https://anacrisbrito.github.io/Relogio-com-JS/)** | JavaScript • HTML5 • CSS3 | Interface dinâmica orientada a eventos para exibição e controle temporal em tempo real. |
 
 ---
 
